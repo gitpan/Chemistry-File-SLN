@@ -8,3 +8,5 @@ lib/Chemistry/File/SLN/Parser.pm
 t/pod.t
 t/rw.sln
 t/rw.t
+t/twice.t
+META.yml                                 Module meta-data (added by MakeMaker)
